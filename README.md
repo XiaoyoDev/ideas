@@ -7,6 +7,12 @@ Poniżej znajduje się pełna lista pomysłów na aplikacje wraz z ocenami i kom
 ## Pełna lista aplikacji (alfabetycznie, wszystkie +)
 
 Nazwa aplikacji	💰 Monetyzacja	🏁 Konkurencja	⚙️ Skomplikowanie	🎯 Przydatność	📣 Marketing	🔢 Suma	📊 Średnia	💬 Komentarz
+AdScanAI	9	7	7	8	8	39	7.8	Aplikacja do automatycznego rozpoznawania i analizy reklam offline (np. billboardy, ulotki) – monetyzacja przez B2B i analitykę dla firm.
+ReceiptRewards	8	7	7	8	8	38	7.6	Skanowanie paragonów i nagrody cashback/lojalnościowe – model partnerski z markami, duży potencjał zarobkowy.
+FitCoachGPT	8	8	8	9	8	41	8.2	AI-trener fitness z personalizacją i subskrypcją premium – konkurencja duża, ale rynek stale rośnie.
+PetMatch	7	7	7	8	8	37	7.4	Marketplace/adopcja zwierząt z płatnymi ogłoszeniami i usługami premium.
+QuickInvoice	8	7	7	8	8	38	7.6	Błyskawiczne fakturowanie dla mikroprzedsiębiorców – model SaaS, łatwa integracja z płatnościami.
+EventPromoAI	8	7	8	8	8	39	7.8	AI do generowania i promowania wydarzeń lokalnych – monetyzacja przez płatne promowanie eventów.
 BabyLog	7	6	8	8	7	36	7.2	Aplikacje dla rodziców są popularne; przy prostocie MVP łatwo wejść, ale konkurencja umiarkowana.
 BrandMonitor	8	6	7	8	8	37	7.4	Dla firm śledzących wizerunek; konkurencja istnieje, ale można zrobić mobilną lekką wersję.
 CarLog+	8	6	7	8	7	36	7.2	Świetne jako prosty rejestr kosztów auta; konkurencja istnieje, ale nisza duża.
