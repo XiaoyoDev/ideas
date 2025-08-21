@@ -7,6 +7,11 @@ Poniżej znajduje się pełna lista pomysłów na aplikacje wraz z ocenami i kom
 ## Pełna lista aplikacji (alfabetycznie, wszystkie +)
 
 Nazwa aplikacji	💰 Monetyzacja	🏁 Konkurencja	⚙️ Skomplikowanie	🎯 Przydatność	📣 Marketing	🔢 Suma	📊 Średnia	💬 Komentarz
+TapTycoon	8	7	6	7	8	36	7.2	Prosta gra idle/clicker z mikropłatnościami i reklamami; łatwa do wdrożenia, duży potencjał viralowy.
+QuizRush	7	7	6	8	8	36	7.2	Szybkie quizy online z rankingami i nagrodami; monetyzacja przez reklamy i premium.
+WordSprint	7	7	6	8	7	35	7.0	Gra słowna na czas, tryb multiplayer; łatwa do zrobienia, popularny gatunek.
+ShapeStacker	7	6	6	7	7	33	6.6	Układanie klocków na czas, prosta mechanika, monetyzacja przez reklamy.
+MemoryMatchAI	7	7	7	8	7	36	7.2	Klasyczna gra memory z AI, która uczy się stylu gracza; mikropłatności za nowe motywy.
 AdScanAI	9	7	7	8	8	39	7.8	Aplikacja do automatycznego rozpoznawania i analizy reklam offline (np. billboardy, ulotki) – monetyzacja przez B2B i analitykę dla firm.
 ReceiptRewards	8	7	7	8	8	38	7.6	Skanowanie paragonów i nagrody cashback/lojalnościowe – model partnerski z markami, duży potencjał zarobkowy.
 FitCoachGPT	8	8	8	9	8	41	8.2	AI-trener fitness z personalizacją i subskrypcją premium – konkurencja duża, ale rynek stale rośnie.
