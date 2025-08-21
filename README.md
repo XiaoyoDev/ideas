@@ -7,6 +7,18 @@ Poniżej znajduje się pełna lista pomysłów na aplikacje wraz z ocenami i kom
 ## Pełna lista aplikacji (alfabetycznie, wszystkie +)
 
 Nazwa aplikacji	💰 Monetyzacja	🏁 Konkurencja	⚙️ Skomplikowanie	🎯 Przydatność	📣 Marketing	🔢 Suma	📊 Średnia	💬 Komentarz
+<!-- Pomysły użytkownika powyżej -->
+
+---
+
+## Pomysły AI na aplikacje użytkowe (inspirowane trendami)
+
+Nazwa aplikacji	💰 Monetyzacja	🏁 Konkurencja	⚙️ Skomplikowanie	🎯 Przydatność	📣 Marketing	🔢 Suma	📊 Średnia	💬 Komentarz
+HabitWealth	8	7	7	9	8	39	7.8	Aplikacja do budowania nawyków finansowych, edukacja i mikro-oszczędzanie, model subskrypcyjny.
+LocalQuest	7	7	7	8	8	37	7.4	Odkrywanie lokalnych atrakcji i wyzwań, monetyzacja przez partnerstwa z biznesami.
+FocusZen	8	7	7	9	8	39	7.8	Aplikacja do mindfulness i produktywności, personalizowane wyzwania, subskrypcja premium.
+DocuScanAI	8	8	7	8	8	39	7.8	Skanowanie i automatyczne rozpoznawanie dokumentów, integracja z chmurą, model SaaS.
+SkillMatch	7	7	7	8	8	37	7.4	Łączenie ludzi o komplementarnych umiejętnościach do wspólnych projektów, model freemium.
 HabitWealth	8	7	7	9	8	39	7.8	Aplikacja do budowania nawyków finansowych, edukacja i mikro-oszczędzanie, model subskrypcyjny.
 LocalQuest	7	7	7	8	8	37	7.4	Odkrywanie lokalnych atrakcji i wyzwań, monetyzacja przez partnerstwa z biznesami.
 FocusZen	8	7	7	9	8	39	7.8	Aplikacja do mindfulness i produktywności, personalizowane wyzwania, subskrypcja premium.
